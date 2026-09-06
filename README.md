@@ -15,10 +15,10 @@
 ---
 
 ## Full Documentation
-* **Detailed Project Assignment & Implementation Criteria: https://github.com/AthanasiosGourdomichalis/cpp-data-structures-Binary-Tree-Traversal-Simulator-2D-application-game-Node-Network/blob/main/docs/assignment.pdf**
-* **General Project Overview & Presentation: https://github.com/AthanasiosGourdomichalis/cpp-data-structures-Binary-Tree-Traversal-Simulator-2D-application-game-Node-Network/blob/main/docs/presentation-report.pdf**
-* **User Guide – Application Execution Overview (Run-Through): https://github.com/AthanasiosGourdomichalis/cpp-data-structures-Binary-Tree-Traversal-Simulator-2D-application-game-Node-Network/blob/main/docs/user-guide.pdf**
-* **Technical Report & C++ Code Analysis: https://github.com/AthanasiosGourdomichalis/cpp-data-structures-Binary-Tree-Traversal-Simulator-2D-application-game-Node-Network/blob/main/docs/technical-report-code-analysis.pdf**
+* **Detailed Project Assignment & Implementation Criteria: https://github.com/AthanasiosGourdomichalis/cpp-data-structures-binary-tree-traversal-simulator-2D-application-game-node-network/blob/main/docs/assignment.pdf**
+* **General Project Overview & Presentation: https://github.com/AthanasiosGourdomichalis/cpp-data-structures-binary-tree-traversal-simulator-2D-application-game-node-network/blob/main/docs/presentation-report.pdf**
+* **User Guide – Application Execution Overview (Run-Through): https://github.com/AthanasiosGourdomichalis/cpp-data-structures-binary-tree-traversal-simulator-2D-application-game-node-network/blob/main/docs/user-guide.pdf**
+* **Technical Report & C++ Code Analysis: https://github.com/AthanasiosGourdomichalis/cpp-data-structures-binary-tree-traversal-simulator-2D-application-game-node-network/blob/main/docs/technical-report-code-analysis.pdf**
 
 ---
 
