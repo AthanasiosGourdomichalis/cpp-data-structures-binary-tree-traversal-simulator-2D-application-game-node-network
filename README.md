@@ -48,6 +48,7 @@ https://github.com/user-attachments/assets/0c413926-a4ad-49ea-abae-17929500e1ec
   * `Interactable`
 * **Generic Data Representation:** `Node<T>`
 * **Dynamic Memory Safety**
+<img width="673" height="600" alt="image" src="https://github.com/user-attachments/assets/644b8aba-0d14-4a11-9cbc-7b955f1cb6d4" />
 
 ---
 
