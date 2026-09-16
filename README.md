@@ -1,5 +1,7 @@
 # INTERACTIVE APPLICATION USING A NODE NETWORK: REPRESENTATION OF TREE TRAVERSALS IN A USER CREATED BINARY TREE
 ## Assignment in Computer Programming with C++
+---
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
