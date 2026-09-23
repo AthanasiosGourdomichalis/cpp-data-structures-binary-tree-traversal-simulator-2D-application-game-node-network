@@ -70,6 +70,8 @@ Open TreeProject.sln using Visual Studio 2022.
 * **Set configuration to Debug or Release and architecture to x64.**
 * **Press F5 (or Local Windows Debugger) to build and launch the application.**
 
+---
+
 # 👤 Author
 Athanasios Gourdomichalis - https://github.com/AthanasiosGourdomichalis
 ---
